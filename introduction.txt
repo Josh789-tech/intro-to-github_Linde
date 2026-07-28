@@ -1,0 +1,4 @@
+Joshua Linde
+BSDSA-2  
+25-2817
+Hi!! This is not my first Github repo, I actually made a previous one
