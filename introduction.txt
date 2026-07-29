@@ -1,4 +1,6 @@
-Joshua Linde
-BSDSA-2  
-25-2817
-Hi!! This is not my first Github repo, I actually made a previous one and now I’m adding more so I can practice it.
+Name: Joshua Linde
+Course & Section: BSDSA-2  
+Student Number: 25-2817
+
+Hi!! This is not my first Github repository.
+I actually made a previous one and now I’m adding more so I can practice it.
